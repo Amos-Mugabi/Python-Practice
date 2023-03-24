@@ -9,6 +9,3 @@ print(name, "is ", age, "years old" )
 
 
 
-
-
-
